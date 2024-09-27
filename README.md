@@ -1,3 +1,3 @@
 # serviceman
 
-- Added [scalar](https://github.com/scalar/scalar)
+- Added [scalar](https://github.com/scalar/scalar) for api documentation
